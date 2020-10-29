@@ -8,7 +8,7 @@
 ### ABOUT ME
 ---
 + I'm a software engineer and interested in programming and teaching.
-+ Be grateful for what you have and who you are. 
+
 ---
 ### SKILLS
 ---
