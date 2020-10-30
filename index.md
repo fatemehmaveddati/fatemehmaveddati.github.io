@@ -25,7 +25,7 @@
  
 + https://ponisha.ir/profile/fatemehmaveddati 
 + https://www.linkedin.com/in/fatemeh-maveddati-581ba3197
-
++ https://quera.ir/profile/f.maveddati67
 ### Education
 ---
 +     Bachelor: social sciences 
