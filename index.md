@@ -7,7 +7,7 @@
 
 ### ABOUT ME
 ---
-+ I'm a software engineer.
++ I'm a software engineer,interested in programming and teaching.
 
 ---
 ### SKILLS
