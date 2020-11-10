@@ -6,19 +6,16 @@
 + E-mail:     F.maveddati67@gmail.com 
 ---
 
-
 ### ABOUT ME
 
 + I'm a software engineer,interested in programming.
 ---
-
 
 ### Education
 
 +     Bachelor: social sciences 
 +     Bachelor: Software engineering
 ---
-
 
 ### SKILLS
 
