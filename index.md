@@ -1,21 +1,24 @@
 ### Resume
 
 + First name: Fatemeh
-+ Last name:  maveddati
-+ Location:   Tehran,Iran
-+ E-mail:     F.maveddati67@gmail.com 
++ Last name: Maveddati
++ Location: Tehran,Iran
++ E-mail: F.maveddati67@gmail.com 
 ---
+
 
 ### ABOUT ME
 
 + I'm a software engineer,interested in programming.
 ---
 
+
 ### Education
 
 +     Bachelor: social sciences 
 +     Bachelor: Software engineering
 ---
+
 
 ### SKILLS
 
@@ -26,11 +29,13 @@
 +       CSS
 ---
 
+
 ### LANGUAGE
 
 +       English
 +       Persian
 ---
+
 
 ### Working Experience
  
