@@ -9,7 +9,8 @@
 
 ### ABOUT ME
 
-+ I'm a software engineer,interested in programming.
++ student of computer engineering. 
++interested in programming.
 ---
 
 
@@ -27,6 +28,7 @@
 +       C++
 +       HTML
 +       CSS
++       Javascript
 ---
 
 
