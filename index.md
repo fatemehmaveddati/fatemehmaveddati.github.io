@@ -10,7 +10,7 @@
 
 ### ABOUT ME
 
-+ student of computer engineering and interested in programming.
++ student of computer engineering
 
 ---
 
