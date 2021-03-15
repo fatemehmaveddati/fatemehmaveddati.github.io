@@ -27,8 +27,6 @@
 
 + Microsoft office
 + Python
-+ C
-+ C++
 + HTML
 + CSS
 + Javascript
