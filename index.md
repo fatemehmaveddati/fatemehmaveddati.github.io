@@ -17,7 +17,7 @@
 
 ### Education
 
-+ Bachelor: social sciences 
++ Bachelor: social sciences Research
 + Bachelor: Computer engineering
 
 ---
